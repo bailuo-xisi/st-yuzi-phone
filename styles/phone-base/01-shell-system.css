@@ -50,7 +50,7 @@
     transform: translateX(-50%);
     width: var(--yuzi-phone-dynamic-island-width, 78px);
     height: var(--yuzi-phone-dynamic-island-height, 24px);
-    background: var(--yuzi-phone-bg-app, #000);
+    background: transparent;
     border-radius: var(--yuzi-phone-dynamic-island-radius);
     z-index: 3;
 }
